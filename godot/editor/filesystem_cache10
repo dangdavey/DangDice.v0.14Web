@@ -1,0 +1,36 @@
+9cad1ddce9e5a63143ba340c9520626b
+::res://::1784404368
+export_presets.cfg::TextFile::-1::1784404026::0::1::::<><><>0<>0<><>::
+::res://Audio/::1784400186
+falling down a well fade.mp3::AudioStreamMP3::6093203258284987199::1784398081::1784398086::1::::<><><>0<>0<>c2851cb8a46de23ae5216fc3ced44652<>res://.godot/imported/falling down a well fade.mp3-3448fbee49e1154a62ca46fd8223a155.mp3str::
+falling down a well.mp3::AudioStreamMP3::4517779928550835710::1784397631::1784397671::1::::<><><>0<>0<>33a28b42b309c26f958af1bd404a4a01<>res://.godot/imported/falling down a well.mp3-effd9f02ce35b5603d14ba2864d5fec6.mp3str::
+Victory Sound.mp3::AudioStreamMP3::6676616217029435853::1784398691::1784400185::1::::<><><>0<>0<>616afe12bccf36b2996011daade2154d<>res://.godot/imported/Victory Sound.mp3-b3b4d3ebe34cb2f1bb88c49da659e4b5.mp3str::
+::res://Dice/::1784233519
+Dice.gd::GDScript::4877010480593067564::1784233519::0::1::::<>Sprite2D<><>0<>0<><>::
+::res://Exports/::1784237224
+::res://github/::1784402868
+::res://github/workflows/::1784402980
+build-ios.yml::TextFile::-1::1784402971::0::1::::<><><>0<>0<><>::
+::res://Images/::1784402238
+d20PixelSprite1.png::CompressedTexture2D::4778883925957706492::1784225422::1784237327::1::::<><><>0<>0<>590d9cf96ea42ef903ac970519de136b<>res://.godot/imported/d20PixelSprite1.png-0a238107ebe1d3d5a8013cbec47522d1.ctex::
+d20PixelSprite.png::CompressedTexture2D::5011023175567071691::1784230499::1784237327::1::::<><><>0<>0<>04fcb1b72c63bdbeaf757238dc768e30<>res://.godot/imported/d20PixelSprite.png-c6890d75446d1791a4b3371645383896.s3tc.ctex<*>res://.godot/imported/d20PixelSprite.png-c6890d75446d1791a4b3371645383896.etc2.ctex::
+d100.png::CompressedTexture2D::1554102972813146122::1784144151::1784237326::1::::<><><>0<>0<>6f037c66b0ce35e6acf04dac6aaebe5f<>res://.godot/imported/d100.png-feef641732206c6ace6839081cc399cb.ctex::
+DeathDice.png::CompressedTexture2D::6608774203340374492::1784237416::1784237456::1::::<><><>0<>0<>8714ecbfd26d8bbc24a62e78b5f5561c<>res://.godot/imported/DeathDice.png-82db9d3c383aa0026825a70d3f6879fa.ctex::
+icon.icns::OtherFile::-1::1784240810::0::1::::<><><>0<>0<><>::
+icon.ico::OtherFile::-1::1784240661::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D::4086962739113456530::1784237416::1784237555::1::::<><><>0<>0<>f0d181b74a3682203bc6f9786fbe8e85<>res://.godot/imported/icon.png-5c54608cdf98940b04ad240121483c81.ctex::
+RollDieButtonSprite.png::CompressedTexture2D::6838899788732638730::1784231423::1784237326::1::::<><><>0<>0<>e584696d9c074a37f2889e58c920cf22<>res://.godot/imported/RollDieButtonSprite.png-54aab32e52129d62372e76347da3fb06.ctex::
+::res://libgodot_camera.visionos.debug.xcframework/::1784236892
+::res://libgodot_camera.visionos.debug.xcframework/xros-arm64/::1784236892
+::res://libgodot_camera.visionos.debug.xcframework/xros-arm64-simulator/::1784236892
+::res://libgodot_camera.visionos.release.xcframework/::1784236892
+::res://libgodot_camera.visionos.release.xcframework/xros-arm64/::1784236892
+::res://libgodot_camera.visionos.release.xcframework/xros-arm64-simulator/::1784236892
+::res://Main/::1784398923
+GameState.gd::GDScript::4582254644286604156::1784296963::0::1::::<>Node<><>0<>0<><>::
+Main.gd::GDScript::5419474481717991154::1784398800::0::1::::<>Control<><>0<>0<><>::
+Main.tscn::PackedScene::3264981705021679552::1784398923::0::1::::<><><>0<>0<><>::uid://cjhh7ntrwdbxi::::res://Main/Main.gd<>uid://b6jxcgtysqeh5::::res://Main/GameState.gd<>uid://c4o2xeqjchnr3::::res://Images/RollDieButtonSprite.png<>uid://cdnm24o34adot::::res://Images/d20PixelSprite.png<>uid://cbqpwdqs6hkeu::::res://Dice/Dice.gd<>uid://cs2ufxs5rkynf::::res://Audio/falling down a well fade.mp3<>uid://c2eg5nbgebsjl::::res://Audio/Victory Sound.mp3
+RollButtonSprite.gd::GDScript::6434918055193281670::1784235385::0::1::::<>Sprite2D<><>0<>0<><>::
+::res://MoltenVK.xcframework/::1784236907
+::res://MoltenVK.xcframework/ios-arm64/::1784236907
+::res://MoltenVK.xcframework/ios-arm64_x86_64-simulator/::1784236907
